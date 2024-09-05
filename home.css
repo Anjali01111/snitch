@@ -1,0 +1,249 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+header h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 17px;
+    height: 30px;
+    padding-top:  5px; ;
+  
+}
+header nav {
+    display: flex;
+    align-items: center;
+}
+header nav .snitch img{
+    width: 250px
+}
+header nav .snitch{
+    margin: 0px auto;
+}
+header nav ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+.summary_img{
+    width: 100px;
+}
+.summer_img img{
+    width: 100%;
+}
+.new_button_1{
+display: flex;
+justify-content: center;
+}
+ .new_button_1 .new_drop{
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px ;
+    background-color: black;
+    color: white;
+}
+.new_button_1 .most_trending{
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px ;
+}
+.div_img{
+    display: flex;
+    display: inline-block;
+ 
+}
+
+.div_img img{
+    width: 280px;
+ position:relative;
+ margin: 15px;
+}
+
+.div_img p{
+    position: relative;
+    margin-left: 30px;
+    bottom: 20px;
+}
+.button_2 button{
+    margin-left: 50%;
+    padding: 10px 10px 10px 10px ; 
+}
+.head h2{
+    text-align: center;
+    font-size: 35px;
+    margin: 20px 20px 20px 20px ;
+   margin-left: 100px;
+}
+
+.trend{
+    display: flex;
+    justify-content:space-evenly ;
+}
+.trend_img img{
+    width: 300px;
+    right: 30px;
+    border-radius: 20px;
+}
+.trend .trend_img  p{
+    position:relative ;
+    margin-left: 20px;
+    font-size: 20px;
+    bottom: 40px;
+}
+.button_3{
+    display: flex;
+    justify-content: center;
+}
+.button_3 button{
+    padding: 10px 15px 10px 15px ;
+    border-radius: 20px;
+    margin: 5px;
+    right: 10px;
+
+}
+.button_3 .shi{
+    background-color: black;
+    color: white;
+
+}
+ .Lining_shirts{
+    display: flex;
+}
+.Lining_shirts .lin_shi_img img{
+    width: 280px;
+ position:relative;
+ margin-left: 30px;
+}
+
+.Lining_shirts .lin_shi_img p{
+    position: relative;
+    margin-left: 32px;
+    margin-top: 20px;
+    bottom: 20px;
+}
+.button_4 button{
+    margin-left: 600px;
+    padding: 10px 15px 10px 15px ; 
+}
+.sea_f h2{
+    font-size: 35px;
+    text-align: center;
+}
+.seasonal_fav{
+    display: flex;
+    justify-content:space-evenly;
+}
+.seasonal_fav .sea_img img{
+    width: 300px;
+    right: 30px;
+    border-radius: 20px;
+}
+.seasonal_fav p{
+    position:relative ;
+    margin-left: 20px;
+    font-size: 20px;
+    bottom: 40px;
+    color: white;
+}
+.button_5{
+    display: flex;
+    justify-content: center;
+}
+.button_5 button{
+    padding: 10px 15px 10px 15px ;
+    border-radius: 20px;
+    margin: 5px;
+    right: 10px;
+
+}
+.button_5 .sho{
+    background-color: black;
+    color: white;
+
+}
+ .shorts_f{
+    display: flex;
+}
+.shorts_f .shorts_img img {
+    width: 280px;
+ position:relative;
+ margin-left: 28px;
+}
+
+.shorts_f p{
+    position: relative;
+    margin-left: 32px;
+    bottom: 20px;
+    margin-top: 20px;
+}
+.button_6 button {
+    margin-left: 590px;
+    padding: 10px 15px 10px 15px ; 
+}
+.most_demanding{
+    display: flex;
+    justify-content: space-evenly;
+}
+.most_demanding .demanding_img img{
+    width: 280px;
+    position: relative;
+}
+.most_demanding p{
+    position:relative ;
+    margin-left: 20px;
+    font-size: 20px;
+    bottom: 40px;
+    color: white;
+}
+
+.wow_img{
+    width: 100%;
+}
+.wow_img img{
+    width: 100%;
+}
+.rec_h h2{
+    text-align: center;
+    font-size: 35px;
+}
+
+.stalked img{
+    width: 300px;
+    margin-left: 470px;
+}
+.stalked p{
+    text-align: center;
+}
+.footer_ing{
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer_ing P{
+    margin-top: 15PX;
+}
+.sign_up{
+    margin-left: 50px;
+}
+.enter_email input{
+    margin-left: 30px;
+    border: none;
+    padding: 8px 25px;
+    font-size: 18px;
+}
+.enter_email button{
+
+    border: none;
+}
+.sn_2024{
+    text-align: center;
+}
+.fonts_2{
+    display: flex;
+    display: inline-flex;
+}
+.fonts_2 i{
+    padding-left: 10px;
+    font-size: 30px;
+    
+}
